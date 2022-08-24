@@ -1,0 +1,33 @@
+html {
+    background-color: rgb(255, 196, 242);
+    height: 200;
+    width: 200;
+    
+}
+.image1 {
+    border: salmon;
+    
+    
+    
+}
+
+
+
+.image4 {
+    height: 6cm;
+    width: 6cm;
+
+}
+p {
+    font: 1em sans-serif;
+    font-style: italic;
+    font-stretch: wider;
+    color: blueviolet;
+    font-weight: bolder;
+    line-height: 2rem;
+}
+div {
+    text-align: center;
+    color: rgb(150, 127, 255);
+    font-weight: bolder
+}
